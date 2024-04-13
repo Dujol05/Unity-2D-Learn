@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Mamory\bin\Debug\net8.0\Mamory.exe
+C:\Users\Administrator\Desktop\Mamory\bin\Debug\net8.0\Mamory.deps.json
+C:\Users\Administrator\Desktop\Mamory\bin\Debug\net8.0\Mamory.runtimeconfig.json
+C:\Users\Administrator\Desktop\Mamory\bin\Debug\net8.0\Mamory.dll
+C:\Users\Administrator\Desktop\Mamory\bin\Debug\net8.0\Mamory.pdb
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.dll
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\refint\Mamory.dll
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.pdb
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Mamory.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\ref\Mamory.dll

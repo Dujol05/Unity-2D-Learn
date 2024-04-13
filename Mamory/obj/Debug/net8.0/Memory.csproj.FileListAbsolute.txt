@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Memory.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Memory.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Mamory\obj\Debug\net8.0\Memory.csproj.CoreCompileInputs.cache
