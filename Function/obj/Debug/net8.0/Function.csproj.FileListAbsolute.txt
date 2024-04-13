@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Function\bin\Debug\net8.0\Function.exe
+C:\Users\Administrator\Desktop\Function\bin\Debug\net8.0\Function.deps.json
+C:\Users\Administrator\Desktop\Function\bin\Debug\net8.0\Function.runtimeconfig.json
+C:\Users\Administrator\Desktop\Function\bin\Debug\net8.0\Function.dll
+C:\Users\Administrator\Desktop\Function\bin\Debug\net8.0\Function.pdb
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.dll
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\refint\Function.dll
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.pdb
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\Function.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Function\obj\Debug\net8.0\ref\Function.dll

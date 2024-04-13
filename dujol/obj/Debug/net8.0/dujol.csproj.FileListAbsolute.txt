@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\dujol\bin\Debug\net8.0\dujol.exe
+C:\Users\Administrator\Desktop\dujol\bin\Debug\net8.0\dujol.deps.json
+C:\Users\Administrator\Desktop\dujol\bin\Debug\net8.0\dujol.runtimeconfig.json
+C:\Users\Administrator\Desktop\dujol\bin\Debug\net8.0\dujol.dll
+C:\Users\Administrator\Desktop\dujol\bin\Debug\net8.0\dujol.pdb
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.dll
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\refint\dujol.dll
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.pdb
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\dujol.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\dujol\obj\Debug\net8.0\ref\dujol.dll
