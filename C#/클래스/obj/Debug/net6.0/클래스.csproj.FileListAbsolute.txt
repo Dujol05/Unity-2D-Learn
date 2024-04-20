@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\bin\Debug\net6.0\클래스.exe
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\bin\Debug\net6.0\클래스.deps.json
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\bin\Debug\net6.0\클래스.runtimeconfig.json
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\bin\Debug\net6.0\클래스.dll
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\bin\Debug\net6.0\클래스.pdb
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.sourcelink.json
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.dll
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\refint\클래스.dll
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.pdb
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\클래스.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Unity-2D-Learn\C#\클래스\obj\Debug\net6.0\ref\클래스.dll

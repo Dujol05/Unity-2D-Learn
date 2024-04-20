@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\배열\\배열.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Unity-2D-Learn\\C#\\배열\\배열.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\배열\\배열.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Unity-2D-Learn\\C#\\배열\\배열.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\배열\\배열.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Unity-2D-Learn\\C#\\배열\\배열.csproj",
         "projectName": "배열",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\배열\\배열.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Unity-2D-Learn\\C#\\배열\\배열.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\배열\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Unity-2D-Learn\\C#\\배열\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
