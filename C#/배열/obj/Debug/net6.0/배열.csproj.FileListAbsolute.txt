@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\배열\bin\Debug\net6.0\배열.exe
+C:\Users\Administrator\Desktop\배열\bin\Debug\net6.0\배열.deps.json
+C:\Users\Administrator\Desktop\배열\bin\Debug\net6.0\배열.runtimeconfig.json
+C:\Users\Administrator\Desktop\배열\bin\Debug\net6.0\배열.dll
+C:\Users\Administrator\Desktop\배열\bin\Debug\net6.0\배열.pdb
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.dll
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\refint\배열.dll
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.pdb
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\배열.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\배열\obj\Debug\net6.0\ref\배열.dll
