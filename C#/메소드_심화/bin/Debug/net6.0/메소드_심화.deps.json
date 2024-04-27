@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "메소드_심화/1.0.0": {
+        "runtime": {
+          "메소드_심화.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "메소드_심화/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

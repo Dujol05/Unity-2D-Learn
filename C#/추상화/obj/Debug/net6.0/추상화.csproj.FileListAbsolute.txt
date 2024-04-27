@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.csproj.CoreCompileInputs.cache

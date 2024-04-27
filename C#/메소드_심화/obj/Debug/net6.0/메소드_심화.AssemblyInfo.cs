@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("클래스")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("메소드_심화")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("클래스")]
-[assembly: System.Reflection.AssemblyTitleAttribute("클래스")]
+[assembly: System.Reflection.AssemblyProductAttribute("메소드_심화")]
+[assembly: System.Reflection.AssemblyTitleAttribute("메소드_심화")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

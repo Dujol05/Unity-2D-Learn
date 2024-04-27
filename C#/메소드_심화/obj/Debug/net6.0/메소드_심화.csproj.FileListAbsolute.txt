@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\메소드_심화\bin\Debug\net6.0\메소드_심화.exe
+C:\Users\Administrator\Desktop\메소드_심화\bin\Debug\net6.0\메소드_심화.deps.json
+C:\Users\Administrator\Desktop\메소드_심화\bin\Debug\net6.0\메소드_심화.runtimeconfig.json
+C:\Users\Administrator\Desktop\메소드_심화\bin\Debug\net6.0\메소드_심화.dll
+C:\Users\Administrator\Desktop\메소드_심화\bin\Debug\net6.0\메소드_심화.pdb
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.dll
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\refint\메소드_심화.dll
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.pdb
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\메소드_심화.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\메소드_심화\obj\Debug\net6.0\ref\메소드_심화.dll

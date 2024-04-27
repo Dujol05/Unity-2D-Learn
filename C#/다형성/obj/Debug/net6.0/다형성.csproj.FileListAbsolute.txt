@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\다형성\bin\Debug\net6.0\다형성.exe
+C:\Users\Administrator\Desktop\다형성\bin\Debug\net6.0\다형성.deps.json
+C:\Users\Administrator\Desktop\다형성\bin\Debug\net6.0\다형성.runtimeconfig.json
+C:\Users\Administrator\Desktop\다형성\bin\Debug\net6.0\다형성.dll
+C:\Users\Administrator\Desktop\다형성\bin\Debug\net6.0\다형성.pdb
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.dll
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\refint\다형성.dll
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.pdb
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\다형성.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\다형성\obj\Debug\net6.0\ref\다형성.dll
