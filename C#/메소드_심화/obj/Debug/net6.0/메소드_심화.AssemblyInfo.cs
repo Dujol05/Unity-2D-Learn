@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("메소드_심화")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5c55ab9859306d8ed6915a02dad078d2e996255")]
 [assembly: System.Reflection.AssemblyProductAttribute("메소드_심화")]
 [assembly: System.Reflection.AssemblyTitleAttribute("메소드_심화")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

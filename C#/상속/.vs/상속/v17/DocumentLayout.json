@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1F386A-1365-44C0-853F-A52FF161458F}|\uC0C1\uC18D.csproj|c:\\users\\dujol\\onedrive\\\uBB38\uC11C\\github\\unity-2d-learn\\c#\\\uC0C1\uC18D\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1F386A-1365-44C0-853F-A52FF161458F}|\uC0C1\uC18D.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1F386A-1365-44C0-853F-A52FF161458F}|\uC0C1\uC18D.csproj|c:\\users\\dujol\\onedrive\\\uBB38\uC11C\\github\\unity-2d-learn\\c#\\\uC0C1\uC18D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1F386A-1365-44C0-853F-A52FF161458F}|\uC0C1\uC18D.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1F386A-1365-44C0-853F-A52FF161458F}|\uC0C1\uC18D.csproj|c:\\users\\dujol\\onedrive\\\uBB38\uC11C\\github\\unity-2d-learn\\c#\\\uC0C1\uC18D\\\uC0C1\uC18D.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A1F386A-1365-44C0-853F-A52FF161458F}|\uC0C1\uC18D.csproj|solutionrelative:\uC0C1\uC18D.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:31:14.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:07:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uC0C1\uC18D",
+              "DocumentMoniker": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\\uC0C1\uC18D.csproj",
+              "RelativeDocumentMoniker": "\uC0C1\uC18D.csproj",
+              "ToolTip": "C:\\Users\\dujol\\OneDrive\\\uBB38\uC11C\\GitHub\\Unity-2D-Learn\\C#\\\uC0C1\uC18D\\\uC0C1\uC18D.csproj",
+              "RelativeToolTip": "\uC0C1\uC18D.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T21:06:59.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,3 +2,8 @@ C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.GeneratedMSB
 C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\추상화\obj\Debug\net6.0\추상화.csproj.CoreCompileInputs.cache
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.AssemblyInfoInputs.cache
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.AssemblyInfo.cs
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.csproj.CoreCompileInputs.cache
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.sourcelink.json

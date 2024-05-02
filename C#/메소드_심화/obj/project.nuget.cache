@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XcjHYPoQHOW1EfhBHehqudkEIzUu610oCeOmngU9wyBQ8E/U0cr4aUS6GJVqWlf51gqyzTBVHdFJAOWcFrVepQ==",
+  "dgSpecHash": "g3xmIpyydZCkit7EvdkZbpL71FjZcOQmipAVSBTH1j0ZNTTB/5hJGZ1W0BoXbSdDWN6O/NP84MfWCF3OvmLjvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\메소드_심화\\메소드_심화.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dujol\\OneDrive\\문서\\GitHub\\Unity-2D-Learn\\C#\\메소드_심화\\메소드_심화.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

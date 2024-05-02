@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4L2LDoBZAKzmRIH5SgkNTbTrlDoe6TBoUqYoN5m7gVzwv0cGDDMt9TqyFFjOQowIOVi8uzuV6NGJyS6WfKIVw==",
+  "dgSpecHash": "xQHPKez5AluQT7KXMpq2WvT3S56xs390Lwnz++QaBIaEg4TXWUwWLbRQSqZbOtqCHgSg7tQsPtsAccIX1vFpHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\상속\\상속.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dujol\\OneDrive\\문서\\GitHub\\Unity-2D-Learn\\C#\\상속\\상속.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\dujol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -23,12 +23,37 @@ namespace 상속
             Console.WriteLine($"Bank의 이름 : {name} \n Bank의 금액 : {money}");
         }
 
-        public Bank() { }
+        public Bank() { }    // 기본 생성자
 
         public Bank(string name, int money)
         {
             this.name = name;
             this.money = money;
+        } 
+    }
+    class CenterBank : Bank
+    {
+        // 공통적인 요소를 호출하게끔
+
+        public string name;
+        public int centerMoney;
+
+        public void MakeMoney() { }
+
+        // 클래스 내부 멤버 변수를 Console창에 보여주는 함수
+        public void Show()
+        {
+            base.name = "부모의 이름";     // base, this키워드를 사용해서 부모의 변수인지 자신의 변수인지 판별
+            this.name = "중앙 은행";
+            money = 500000;
+        }
+
+        public CenterBank(string name, string parentName,int money, int centerMoney) : base(parentName, money)
+        {
+            this.name = name;
+            this.centerMoney = money;
         }
     }
+    // 중앙 은행 : 화폐를 만들어 낼 수 있는 기능
+    // 지역 은행 : 돈을 입금, 인출
 }
