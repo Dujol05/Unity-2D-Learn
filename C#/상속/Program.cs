@@ -13,7 +13,7 @@
             myBank.show();
             CenterBank centerBank = new CenterBank("중앙은행", "부모", 10000, 0);   // 중앙은행만 갖는 기능과 속성을 기술.
             centerBank.show();
-            Console.WriteLine($"bank의 데이터 {myBank});
+            Console.WriteLine($"bank의 데이터 {myBank}");
 
             // 개발할 때 중앙은행에서 에러가 발생: CenterBank.
             // 전체 은행에서 에러가 발생 -> Bank

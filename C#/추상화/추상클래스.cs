@@ -18,10 +18,10 @@ namespace 추상화
         // abstract 키워드를 선언해서, Car를 상속하는 녀석이 반드시 구현해야할 클래스를 지정해줄수 있다.
         // 단기간에 큰 영향을 주지 않지만
         // 규모가 큰 협업을 하거나, 3달 뒤에 이 클래스를 다시 볼때,, 클래스의 기능을 강제하기 때문에
-        // 설계 
+        // 설계 단계에서 에러를 조정할 수 있다.
 
-        void SpeedUp() { }
-        void SpeedDown() { }
+        protected abstract void SpeedUp();
+        protected abstract void SpeedDown();
 
         public void Show()
         {
@@ -31,6 +31,14 @@ namespace 추상화
 
     class Truck : Car
     {
+        protected override void SpeedDown()
+        {
+            
+        }
 
+        protected override void SpeedUp()
+        {
+            
+        }
     }
 }

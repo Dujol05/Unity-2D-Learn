@@ -7,3 +7,13 @@ C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6
 C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.AssemblyInfo.cs
 C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.csproj.CoreCompileInputs.cache
 C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.sourcelink.json
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\bin\Debug\net6.0\추상화.exe
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\bin\Debug\net6.0\추상화.deps.json
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\bin\Debug\net6.0\추상화.runtimeconfig.json
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\bin\Debug\net6.0\추상화.dll
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\bin\Debug\net6.0\추상화.pdb
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.dll
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\refint\추상화.dll
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.pdb
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\추상화.genruntimeconfig.cache
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\추상화\obj\Debug\net6.0\ref\추상화.dll

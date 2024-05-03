@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("추상화")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29c042634b3096d72884ddf9f6af1b9277f91942")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45034110e94aca389b4686479b1c5a0978d62f64")]
 [assembly: System.Reflection.AssemblyProductAttribute("추상화")]
 [assembly: System.Reflection.AssemblyTitleAttribute("추상화")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

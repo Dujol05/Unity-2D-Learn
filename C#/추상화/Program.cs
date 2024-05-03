@@ -16,11 +16,11 @@
     }
 
     // C# 상속... 이중 상속을 못하게 막고 있습니다.
-    class Bat : Monster, IFlyble
+    class Bat : Monster, IFlyable
     {
-        public Void Fly()
+        public void Fly()
         {
-
+            
         }
     }
     internal class Program
