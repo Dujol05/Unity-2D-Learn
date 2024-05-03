@@ -1,0 +1,5 @@
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\상속\obj\Debug\net6.0\상속.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\상속\obj\Debug\net6.0\상속.AssemblyInfoInputs.cache
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\상속\obj\Debug\net6.0\상속.AssemblyInfo.cs
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\상속\obj\Debug\net6.0\상속.csproj.CoreCompileInputs.cache
+C:\Users\dujol\OneDrive\문서\GitHub\Unity-2D-Learn\C#\상속\obj\Debug\net6.0\상속.sourcelink.json
